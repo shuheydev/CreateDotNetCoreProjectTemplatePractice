@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Shuhey",
+  "classifications": [ "Console" ],
+  "identity": "shuhey.console.practice.01",
+  "name": "shuhey.console.01",
+  "shortName": "shuheycon",
+  "tags": {
+    "type": "project",
+    "language": "C#"
+  },
+  "sourceName": "MyConsole01"
+}
